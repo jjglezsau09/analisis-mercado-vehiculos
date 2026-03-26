@@ -18,7 +18,7 @@ Datos relacionados con vehículos en venta, incluyendo precios, modelos, año y 
 - Tendencias del mercado  
 
 ## 📈 Resultados
-(AQUÍ SUBE CAPTURAS DE TU DASHBOARD)
+Se realiza un render con los datos (https://proyecto-s7-cohort-76-y280.onrender.com)
 
 ## 🔥 Insights
 - Los vehículos más nuevos presentan mayor valor pero menor volumen de ventas  
